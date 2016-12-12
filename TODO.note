@@ -1,0 +1,20 @@
+GENRAL:
+- add a README.md file to the public repository
+- integrate this document to the README.md file
+
+RASD:
+- modify some sequnce diagram
+- add diagram to some use cases
+- typo correction
+- add something on sw capabilities for administrators etc
+- add API to acronymous section
+- update with more specific software choices
+- review use case
+- add PIN to class diagram
+- add pickup and dropoff spot
+
+DD:
+- add standard document reference for DD
+- find a way to put sw choices specifications (java stack - glassfish)
+- add java acronyms
+- control report procedure choices
