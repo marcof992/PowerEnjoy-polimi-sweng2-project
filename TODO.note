@@ -12,9 +12,21 @@ RASD:
 - review use case
 - add PIN to class diagram
 - add pickup and dropoff spot
+- add credentials to class diagram
+- switch to EUCARIS for driving licence
+- review mockups
+- adjust bookmars with adobe acrobat 2015
 
 DD:
+- general typo correction
 - add standard document reference for DD
 - find a way to put sw choices specifications (java stack - glassfish)
 - add java acronyms
 - control report procedure choices
+- specify how maps are plotted
+- add usefull SD
+- add algorithm
+- add link to some sections
+- add Requirements Traceability section
+- adjust bookmars with adobe acrobat 2015
+- match appendix with RASD
