@@ -7,7 +7,6 @@ RASD:
 - add diagram to some use cases
 - typo correction
 - add something on sw capabilities for administrators etc
-- add API to acronymous section
 - update with more specific software choices
 - review use case
 - add PIN to class diagram
@@ -16,12 +15,10 @@ RASD:
 - switch to EUCARIS for driving licence
 - review mockups
 - adjust bookmars with adobe acrobat 2015
+- alloy to better specify an area (at least a circle delimited by a set of points)
 
 DD:
 - general typo correction
-- add standard document reference for DD
-- find a way to put sw choices specifications (java stack - glassfish)
-- add java acronyms
 - control report procedure choices
 - specify how maps are plotted
 - add usefull SD
