@@ -1,9 +1,11 @@
 GENRAL:
 - add a README.md file to the public repository
 - integrate this document to the README.md file
+- switch to revision history table standard for revisions
 
 RASD:
-- modify some sequnce diagram
+- add ride id to class diagram
+- modify some sequnce diagram (remove facebook or google login)
 - add diagram to some use cases
 - typo correction
 - add something on sw capabilities for administrators etc
@@ -26,4 +28,8 @@ DD:
 - add link to some sections
 - add Requirements Traceability section
 - adjust bookmars with adobe acrobat 2015
-- match appendix with RASD
+
+ITPD
+- add more software integration examples (car subsystem, interfaces)
+- add more on user interface applications (maybe move them to external commision)
+- cover more inputs for the integration examples
