@@ -2,6 +2,8 @@ GENRAL:
 - add a README.md file to the public repository
 - integrate this document to the README.md file
 - switch to revision history table standard for revisions
+- switch to bold to document titles
+- talk about localization apis (embedded for mobile, google api for web)
 
 RASD:
 - add ride id to class diagram
@@ -18,6 +20,7 @@ RASD:
 - review mockups
 - adjust bookmars with adobe acrobat 2015
 - alloy to better specify an area (at least a circle delimited by a set of points)
+- change charging station in class diagram (add acronym if necessary)
 
 DD:
 - general typo correction
@@ -28,8 +31,15 @@ DD:
 - add link to some sections
 - add Requirements Traceability section
 - adjust bookmars with adobe acrobat 2015
+- saving money option ?
 
 ITPD
 - add more software integration examples (car subsystem, interfaces)
 - add more on user interface applications (maybe move them to external commision)
 - cover more inputs for the integration examples
+- search for missing acronyms
+- saving money option ?
+
+PP
+
+
