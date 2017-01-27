@@ -34,6 +34,7 @@ DD:
 - saving money option ?
 
 ITPD
+- add subsystem test steps
 - add more software integration examples (car subsystem, interfaces)
 - add more on user interface applications (maybe move them to external commision)
 - cover more inputs for the integration examples
@@ -42,7 +43,3 @@ ITPD
 
 PP
 - add info on the function points section
-- improve schedule section
-- improve res allocation section 
-- improve risk section
-- add used tools: GANTT PRO
