@@ -13,10 +13,10 @@ Contents
 
 Each repo subfolder contains the material used to redact the corresponding document.
 The realease order of the documents is:
-0. RASD (Requirements Analysis and Specification Document)
-0. DD (Design Document)
-0. ITPD (Integration Test Plan Document)
-0. PP (Project Plan)
+1. RASD (Requirements Analysis and Specification Document)
+2. DD (Design Document)
+3. ITPD (Integration Test Plan Document)
+4. PP (Project Plan)
 
 The last assignment is a code inspection review for and external project since in whole ours we don't actually get to write any line of code (except for some algorithms pseudocode).
 
