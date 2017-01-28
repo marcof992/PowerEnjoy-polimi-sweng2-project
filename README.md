@@ -46,7 +46,7 @@ This section contains some possible improvements and corrections for each differ
 * add more on user interface applications (maybe move them to external commision)
 * cover more inputs for the integration examples
 * search for missing acronyms
-* **Test descriptio tests**
+* **Test description section**
 * **Program stubs and test Data section**
 
 **PP:**
