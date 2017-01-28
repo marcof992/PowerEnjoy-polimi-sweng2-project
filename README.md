@@ -29,25 +29,16 @@ TODO
 This section contains some possible improvements and corrections for each different document.
 
 **GENRAL:**
-* add a README.md file to the public repository
-* integrate this document to the README.md file
-* switch to revision history table standard for revisions
-* switch to bold to document titles
 * talk about localization apis (embedded for mobile, google api for web)
-* adjust bookmars with adobe acrobat 2015
+* adjust bookmarks with adobe acrobat 2015
+* handle application development description
 
 **RASD:**
+* general typo correction
 
 **DD:**
 * general typo correction
-* control report procedure choices
-* specify how maps are plotted
-* add usefull SD
-* add algorithm
-* add link to some sections
-* add Requirements Traceability section
-* adjust bookmars with adobe acrobat 2015
-* saving money option
+* add discount alghorithm (battery related one)
 
 **ITPD:**
 * add subsystem test steps
@@ -55,7 +46,8 @@ This section contains some possible improvements and corrections for each differ
 * add more on user interface applications (maybe move them to external commision)
 * cover more inputs for the integration examples
 * search for missing acronyms
-* saving money option 
+* **Test descriptio tests**
+* **Program stubs and test Data section**
 
 **PP:**
 
