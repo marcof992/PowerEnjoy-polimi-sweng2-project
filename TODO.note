@@ -6,6 +6,8 @@ GENRAL:
 - talk about localization apis (embedded for mobile, google api for web)
 
 RASD:
+- change in name,surname in class diagram
+- add username to class diagram
 - add ride id to class diagram
 - modify some sequnce diagram (remove facebook or google login)
 - add diagram to some use cases
@@ -42,4 +44,3 @@ ITPD
 - saving money option ?
 
 PP
-- add info on the function points section
