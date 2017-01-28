@@ -13,6 +13,7 @@ Contents
 
 Each repo subfolder contains the material used to redact the corresponding document.
 The realease order of the documents is:
+
 1. RASD (Requirements Analysis and Specification Document)
 2. DD (Design Document)
 3. ITPD (Integration Test Plan Document)
