@@ -23,6 +23,9 @@ The last assignment is a code inspection review for and external project since i
 
 All the documents final versions are produced under the Document Releases folder.
 
+Final presentation can also be found at:
+https://docs.google.com/presentation/d/19VLQdYxmv64xz9qn-r3deEIwEiK8RAfr29laPoGULe4/edit?usp=sharing
+
 TODO
 ----
 
