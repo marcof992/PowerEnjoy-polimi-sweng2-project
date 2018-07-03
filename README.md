@@ -11,7 +11,7 @@ PowerEnJoy aim is to provide a car-sharing service for multiple cities with the 
 Contents
 --------
 
-Each repo subfolder contains the material used to redact the corresponding document.
+Each repo subfolder contains the material used to redact the corresponding document.  
 The realease order of the documents is:
 
 1. RASD (Requirements Analysis and Specification Document) - [PowerEnJoy_RASD.pdf](https://github.com/marcof992/swe2/blob/master/Document_Releases/PowerEnJoy_RASD.pdf)
