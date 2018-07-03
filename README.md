@@ -14,17 +14,16 @@ Contents
 Each repo subfolder contains the material used to redact the corresponding document.
 The realease order of the documents is:
 
-1. RASD (Requirements Analysis and Specification Document)
-2. DD (Design Document)
-3. ITPD (Integration Test Plan Document)
-4. PP (Project Plan)
+1. RASD (Requirements Analysis and Specification Document) - [PowerEnJoy_RASD.pdf](https://github.com/marcof992/swe2/blob/master/Document_Releases/PowerEnJoy_RASD.pdf)
+2. DD (Design Document) - [PowerEnJoy_DD.pdf](https://github.com/marcof992/swe2/blob/master/Document_Releases/PowerEnJoy_DD.pdf)
+3. ITPD (Integration Test Plan Document) - [PowerEnJoy_ITPD.pdf](https://github.com/marcof992/swe2/blob/master/Document_Releases/PowerEnJoy_ITPD.pdf)
+4. PP (Project Plan) - [PowerEnJoy_PP.pdf](https://github.com/marcof992/swe2/blob/master/Document_Releases/PowerEnJoy_PP.pdf)
 
 The last assignment is a code inspection review for and external project since in whole ours we don't actually get to write any line of code (except for some algorithms pseudocode).
 
 All the documents final versions are produced under the Document Releases folder.
 
-Final presentation can also be found at:
-https://docs.google.com/presentation/d/19VLQdYxmv64xz9qn-r3deEIwEiK8RAfr29laPoGULe4/edit?usp=sharing
+Final presentation can also be found [here](https://docs.google.com/presentation/d/19VLQdYxmv64xz9qn-r3deEIwEiK8RAfr29laPoGULe4/edit?usp=sharing)
 
 TODO
 ----
